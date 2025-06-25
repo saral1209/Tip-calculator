@@ -30,7 +30,7 @@ Everything updates **live** — no buttons, no delays!
 ---
 
 ## 🛠️ Tech Stack
-
+|----------|---------|
 | Technology | Usage |
 | HTML5      | Markup structure |
 | CSS3       | Styling and layout |
